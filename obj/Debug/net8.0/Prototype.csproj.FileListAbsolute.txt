@@ -1,0 +1,62 @@
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\Prototype.exe
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\Prototype.deps.json
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\Prototype.runtimeconfig.json
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\Prototype.dll
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\Prototype.pdb
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\AtkSharp.dll
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\CairoSharp.dll
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\GdkSharp.dll
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\GioSharp.dll
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\GLibSharp.dll
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\GtkSharp.dll
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\PangoSharp.dll
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\obj\Debug\net8.0\Prototype.csproj.AssemblyReference.cache
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\obj\Debug\net8.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfo.cs
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\obj\Debug\net8.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\obj\Debug\net8.0\Prototype.csproj.Up2Date
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\obj\Debug\net8.0\Prototype.dll
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\obj\Debug\net8.0\refint\Prototype.dll
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\obj\Debug\net8.0\Prototype.pdb
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\obj\Debug\net8.0\Prototype.genruntimeconfig.cache
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\obj\Debug\net8.0\ref\Prototype.dll
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\NAudio.dll
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\hassa\OneDrive\Documents\Charles University Study Material\Semester 2\Programming 2\Project\Prototype\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\Prototype.exe
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\Prototype.deps.json
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\Prototype.runtimeconfig.json
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\Prototype.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\Prototype.pdb
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\AtkSharp.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\CairoSharp.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\GdkSharp.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\GioSharp.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\GLibSharp.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\GtkSharp.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\NAudio.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\PangoSharp.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\obj\Debug\net8.0\Prototype.csproj.AssemblyReference.cache
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\obj\Debug\net8.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\obj\Debug\net8.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\obj\Debug\net8.0\Prototype.AssemblyInfo.cs
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\obj\Debug\net8.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\obj\Debug\net8.0\Prototype.csproj.Up2Date
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\obj\Debug\net8.0\Prototype.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\obj\Debug\net8.0\refint\Prototype.dll
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\obj\Debug\net8.0\Prototype.pdb
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\obj\Debug\net8.0\Prototype.genruntimeconfig.cache
+C:\Users\hassa\Documents\Charles University Study Material\Semester 2\Programming 2\Pac-Man Complete\obj\Debug\net8.0\ref\Prototype.dll
